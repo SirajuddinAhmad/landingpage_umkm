@@ -19,7 +19,7 @@ export const products: Product[] = [
     title: "Digital Arsip Management",
     description: "Sistem arsip digital untuk mengelola surat fitur manajemen surat, pengajuan, Membuat Surat Keterangan, Reset Database dan Backup data.",
     framework: "Vue.js + React.js",
-    category: "Restoran & POS",
+    category: "Digital Arsip",
     price: "Rp 200.000",
     features: ["Manajemen Surat", "Pengajuan", "Surat Keterangan", "Backup Data", "Reset Data"],
     color: "from-orange-500 to-red-500",
