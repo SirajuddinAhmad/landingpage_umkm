@@ -16,14 +16,14 @@ export const products: Product[] = [
   
   {
     id: 4,
-    title: "RestoMaster POS",
-    description: "Sistem Point of Sale untuk restoran & cafe dengan fitur manajemen meja, dapur display, dan laporan keuangan real-time.",
+    title: "Digital Arsip Management",
+    description: "Sistem arsip digital untuk mengelola surat fitur manajemen surat, pengajuan, Membuat Surat Keterangan, Reset Database dan Backup data.",
     framework: "Vue.js + React.js",
     category: "Restoran & POS",
     price: "Rp 200.000",
-    features: ["Manajemen Meja", "Kitchen Display", "Split Bill", "Laporan Real-time"],
+    features: ["Manajemen Surat", "Pengajuan", "Surat Keterangan", "Backup Data", "Reset Data"],
     color: "from-orange-500 to-red-500",
-    icon: "🍽️",
+    icon: "🧾",
   },
  
   {
@@ -35,6 +35,6 @@ export const products: Product[] = [
     price: "Rp 200.000",
     features: ["CURD", "Edit tampilan Gambar", "Edit Font", "Edit Logo"],
     color: "from-indigo-500 to-blue-600",
-    icon: "👥",
+    icon: "🖥️",
   },
 ];
